@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+#infos{
+    float: left;
+    width: 34%;
+    background-color: darkslategrey;
+    height: 1000px;
+    position: fixed;
+    z-index:-99;
+    
+}
+
+#me{
+    float: right;
+    width: 60%;
+    background-color: rgb(255, 255, 255);
+    height: 1000px;
+    z-index: -1;
+}
+
+
+
+img{
+    width: 100%;
+}
